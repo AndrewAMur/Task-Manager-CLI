@@ -20,8 +20,8 @@ Task Manager CLI is a command-line tool for managing tasks efficiently, built us
 1. **Clone the repository**:
 
    ```bash
-   git clone <repository-url>
-   cd task-manager-cli
+   git clone https://github.com/AndrewAMur/Task-Manager-CLI
+   cd Task-Manager-CLI
    ```
 
 2. **Create and activate a virtual environment** (optional):
@@ -51,6 +51,14 @@ Once the script is running, you can manage your tasks with the following options
 - **Add a task**: Create a new task with optional due date and repetition.
 - **Remove a task**: Delete a task from your list.
 - **Quit**: Exit the task manager.
+
+## Example
+
+<img src='Screenshots/first.png'>
+<img src='Screenshots/second.png'>
+<img src='Screenshots/third.png'>
+<img src='Screenshots/fourth.png'>
+<img src='Screenshots/fifth.png'>
 
 ## File Structure
 
